@@ -28,7 +28,7 @@ https://swcarpentry.github.io/r-novice-gapminder/
 For advanced programmers needing to understand R, take a look at “Advanced R” or “R for Data Science”, both by Hadley Wickham.
 
 C/C++ (Used in specialist/advanced object-oriented programming modules)
-https://www.learn-c.org/ and https://www.learn-cpp.org/ cater to both beginners and advaced programmers. Take a look at https://www.cprogramming.com/ as well for more practice.
+https://www.learn-c.org/ and https://www.learn-cpp.org/ cater to both beginners and advanced programmers. Take a look at https://www.cprogramming.com/ as well for more practice.
 Advanced programmers, take a look at http://www.icce.rug.nl/documents/cplusplus/.
 
 For all these programming languages and many others, take a look at https://www.w3schools.com/ for some more information and practice.
