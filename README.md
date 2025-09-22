@@ -29,7 +29,7 @@ For advanced programmers needing to understand R, take a look at “Advanced R�
 
 C/C++ (Used in specialist/advanced object-oriented programming modules)
 https://www.learn-c.org/ and https://www.learn-cpp.org/ cater to both beginners and advanced programmers. Take a look at https://www.cprogramming.com/ as well for more practice.
-Advanced programmers, take a look at http://www.icce.rug.nl/documents/cplusplus/.
+
 
 For all these programming languages and many others, take a look at https://www.w3schools.com/ for some more information and practice.
 
@@ -53,7 +53,7 @@ Understandable
 Amendable
 Reusable
 Sustainable
-Group/team work is a key aspect of a computer science practitioner’s everyday work life. So, it is essential to ensure you have a consistent style, whichever coding language you use. During the course, this will help to ensure your group can collaborate efficiently on projects. It will also ensure that your work can be assessed correctly by your peers and tutors.
+Group/team work is a key aspect of a computing practitioner’s everyday work life. So, it is essential to ensure you have a consistent style, whichever coding language you use. During the course, this will help to ensure your group can collaborate efficiently on projects. It will also ensure that your work can be assessed correctly by your peers and tutors.
 
 Most organisations have their own guides for the various programming languages used in a project. One commonly used source for Python is PEP8. However, if you are a beginner, this might be a difficult document to read. A simplified version can be found here and on this site.
 
