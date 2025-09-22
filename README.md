@@ -36,8 +36,8 @@ Take a look at the short courses offered by Kaggle, many of which are included i
 
 You may find it helpful to keep referring to these resources throughout your course. A link to this page will also be made available on your induction module on the learning platform.
 
-## Key Computer Science Concepts
-Below are notes to help you review some key Computer Science concepts before you start your programme.
+## Key Computing Concepts
+Below are notes to help you review some key Computing concepts before you start your programme.
 
 Computing Fundamentals
 https://www.khanacademy.org/computing/computer-science. The Khan Academy website is great for learning fundamentals on any subject and this part of the site introduces various aspects of computer science, starting with algorithms.
