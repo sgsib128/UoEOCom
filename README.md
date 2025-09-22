@@ -1,12 +1,12 @@
 # Welcome to the Computing Department
 ## Practical Application
-In addition to the provided reading list you were sent, the various videos and weblinks below are to introduce you to the basics of the programming languages to be used during your course. Transcripts are available on all the video sites.
+The information below provides various videos and weblinks below that introduce you to the basics of the programming languages to be used during your course. Transcripts are available on all the video sites.
 
-You will not need to download the various software for the programmes (unless you already have them) as online web-based technologies are used for most programmes.
+You will not need to download the various software for the programmes (unless you already have them) as online web-based technologies are used.
 
 GitHub - Used in all courses for team projects, collaborative coding and your e-portfolio.
 You will need to create a GitHub account once you complete your course registration. if you have one already, please ensure you use separate repositories for your studies. You can upgrade your account with a student pack by applying via this link and help guide is also available.
-We encourage you to learn more about this popular platform using their training - First Day on GitHub and First Week on GitHub. You can also review a shortened guide and the GitHub YouTube channel. The GitHub Learning Lab is a great place to start getting some practice, as well as Microsoft's Learning Labs
+We encourage you to learn more about this popular platform using their training - First Day on GitHub and First Week on GitHub. You can also review a shortened guide on the GitHub YouTube channel. The GitHub Learning Lab is a great place to start getting some practice, as well as Microsoft's Learning Labs.
 
 Python (Used in most courses, including object-oriented programming)
 https://www.learnpython.org/ - Beginners, focus on “Learn the Basics” and “Data Science Tutorials”.
