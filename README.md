@@ -31,8 +31,8 @@ https://www.learn-c.org/ and https://www.learn-cpp.org/ cater to both beginners 
 
 For all these programming languages and many others, take a look at https://www.w3schools.com/ for some more information and practice.
 
-Data Science and Artificial Intelligence training
-Take a look at the short courses offered by Kaggle, many of which are included in both programmes. This will be a great introduction to each module and your programme as a whole. To be sure of which ones to complete, compare them your programme's module titles. Don't forget to pick up your certificates of completion when you complete each one.
+## Data Science and Artificial Intelligence training
+Take a look at the short courses offered by Kaggle, many of which are included in both programmes. This will be a great introduction to each module and your programme as a whole. To be sure of which ones to complete, compare them to your programme's module titles. Don't forget to pick up your certificates of completion when you complete each one.
 
 You may find it helpful to keep referring to these resources throughout your course. A link to this page will also be made available on your induction module on the learning platform.
 
@@ -51,6 +51,7 @@ Understandable
 Amendable
 Reusable
 Sustainable
+
 Group/team work is a key aspect of a computing practitioner’s everyday work life. So, it is essential to ensure you have a consistent style, whichever coding language you use. During the course, this will help to ensure your group can collaborate efficiently on projects. It will also ensure that your work can be assessed correctly by your peers and tutors.
 
 Most organisations have their own guides for the various programming languages used in a project. One commonly used source for Python is PEP8. However, if you are a beginner, this might be a difficult document to read. A simplified version can be found here and on this site.
